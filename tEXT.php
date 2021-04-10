@@ -1,4 +1,2 @@
 privet !
-hjgbhcfgc
-jhbvghch
-jkhvcfgxcgh
+
