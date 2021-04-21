@@ -1,4 +1,4 @@
-echo 'privet vladik !'
+echo 'privet vladik, you are beautifull !'
 privet !
 
 
