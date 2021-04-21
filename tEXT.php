@@ -1,3 +1,3 @@
-echo 'hello a-level !'
+echo 'hello A-level !'
 privet !
 
