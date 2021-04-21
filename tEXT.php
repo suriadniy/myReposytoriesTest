@@ -1,2 +1,4 @@
+echo 'privet vladik !'
 privet !
+
 
