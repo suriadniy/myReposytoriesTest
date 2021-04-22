@@ -1,2 +1,1 @@
-echo "first commit";
-
+echo "first commnit, second commit";
